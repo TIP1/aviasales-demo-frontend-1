@@ -1,3 +1,13 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+input, button, a, textarea{
+  outline: none!important;
+}
+input:focus, button:focus, a:focus, textarea:focus{
+  outline: none!important;
+}
 .App {
   text-align: center;
 }
